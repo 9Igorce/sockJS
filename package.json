@@ -1,0 +1,14 @@
+{
+	"name": "9Igorce",
+    "description": "sock",
+    "private": "true",
+    "version": "1.0.0",
+	"scripts": {
+	   "start": "node request.js"
+	},
+	"main": "request.js",
+	"dependencies": {
+	  "url":  "",
+	  "request":""
+	}
+}
